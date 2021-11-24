@@ -1,4 +1,5 @@
 CNNs: Convolutional neural network. That is, a network which has at least one convolutional layer. A typical CNN also includes other types of layers, such as pooling layers and dense layers.
+
 Convolution: The process of applying a kernel (filter) to an image
 Kernel / filter: A matrix which is smaller than the input, used to transform the input into chunks
 Padding: Adding pixels of some value, usually 0, around the input image
